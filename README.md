@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MR DARK</h1>
 <h3 align="center">A Passionate GAME & FiveM DEVELOPER from BANGLADESH</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DARK-DEVELOPMENTT" alt="DARK-DEVELOPMENTT" /></a> </p>
 
 - 🔭 I’m currently working on **7ven Development,Obsidian, vLife, Gen-Z RP**
 
