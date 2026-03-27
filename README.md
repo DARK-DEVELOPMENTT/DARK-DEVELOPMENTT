@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+GAME+SYSTEMS+ARCHITECT;⚡+UNREAL+ENGINE+DEVELOPER;⚡+FIVEM+SYSTEMS+ENGINEER;⚡+DARK+AXIOM+FRAMEWORK" />
+</p>
 <h1 align="center">🌌 DARK DEVELOPMENT</h1>
 
 <h3 align="center">⚡ Game & FiveM Developer</h3>
@@ -135,8 +138,22 @@ I focus on building **scalable, optimized, and high-performance systems**.
 <p align="center">
   <img src="https://raw.githubusercontent.com/dark-developmentt/DARK-DEVELOPMENTT/main/banner.png" width="100%" />
 </p>
-<br>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dark-developmentt&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dark-developmentt&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
 <h2 align="center">⚡ DARK DEVELOPMENT ⚡</h2>
 <p align="center">Game Systems Architect • Unreal Engine • FiveM</p>
 
+
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+GAME+SYSTEMS+ARCHITECT;⚡+UNREAL+ENGINE+DEVELOPER;⚡+FIVEM+SYSTEMS+ENGINEER;⚡+DARK+AXIOM+FRAMEWORK" />
+</p>
