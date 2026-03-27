@@ -1,6 +1,6 @@
 <h1 align="center">🌌 DARK DEVELOPMENT</h1>
 
-<h3 align="center">⚡ Game Developer & FiveM Developer</h3>
+<h3 align="center">⚡ Game & FiveM Developer</h3>
 <h4 align="center">🧠 Advanced Game Systems Architect (Unreal Engine + FiveM)</h4>
 
 ---
