@@ -133,9 +133,10 @@ I focus on building **scalable, optimized, and high-performance systems**.
 ---
 
 <p align="center">
-  ⚡ DARK DEVELOPMENT ⚡
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/dark-developmentt/DARK-DEVELOPMENTT/main/banner.png" width="100%" />
 </p>
+<br>
+<h2 align="center">⚡ DARK DEVELOPMENT ⚡</h2>
+<p align="center">Game Systems Architect • Unreal Engine • FiveM</p>
+
+---
