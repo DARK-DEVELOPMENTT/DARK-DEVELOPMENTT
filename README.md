@@ -15,6 +15,15 @@ I focus on building **scalable, optimized, and high-performance systems**.
 
 ---
 
+## 🧠 What I Build
+- 🎮 Unreal Engine gameplay systems  
+- ⚙️ Scalable FiveM architectures  
+- 🤖 AI-driven gameplay systems  
+- 🚗 Vehicle & physics systems  
+- 🧩 Modular system frameworks  
+
+---
+
 ## ⚙️ Core Expertise
 
 🔥 Unreal Engine Systems (Blueprint + C++)
@@ -125,4 +134,8 @@ I focus on building **scalable, optimized, and high-performance systems**.
 
 <p align="center">
   ⚡ DARK DEVELOPMENT ⚡
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dark-developmentt/DARK-DEVELOPMENTT/main/banner.png" />
 </p>
