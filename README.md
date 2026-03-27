@@ -137,5 +137,5 @@ I focus on building **scalable, optimized, and high-performance systems**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dark-developmentt/DARK-DEVELOPMENTT/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/dark-developmentt/DARK-DEVELOPMENTT/main/banner.png" width="100%" />
 </p>
